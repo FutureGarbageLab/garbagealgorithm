@@ -1,0 +1,3 @@
+# GarbageAlgorithm
+Welcome to GarbageAlgorithm!
+
